@@ -1343,7 +1343,7 @@
 	/*vqmmc-supply = <&reg_aldo1>;*/
 	/*emmc io vol 1.8v*/
 	vqmmc-supply = <&reg_cldo1>;
-	status = "disabled";
+	status = "okay";
 };
 
 &sdc0 {
